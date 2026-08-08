@@ -44,19 +44,11 @@
 <p align="left">
   Hi, I'm Teena 👋 — a Computer Science graduate from Nepal 🇳🇵
 
-  <br><br>
-
   📊 Currently interning in Data Analytics and learning to make sense of data beyond spreadsheets.
-
-  <br>
 
   💻 I enjoy web development, experimenting with random ideas, and occasionally convincing myself I need another project.
 
-  <br>
-
   🎨 When I'm not coding, I'm probably designing something on Canva, editing a reel, or making things unnecessarily aesthetic.
-
-  <br>
 
   ⚡ Basically, I like building things, designing things, and figuring things out along the way.
 </p>
