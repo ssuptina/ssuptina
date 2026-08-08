@@ -1,4 +1,9 @@
-<h2>~ Que será, será— whatever will be, will be.</h2>
+<div align="center">
+
+<h2>「 𝒬𝓊𝑒 𝓈𝑒𝓇á, 𝓈𝑒𝓇á 」</h2>
+<p><i>whatever will be, will be. ✨</i></p>
+
+</div>
 <br>
   <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNuaHg3aGp1b3A5cmZ1Y3huNjVrZjM2bWRwMm5sZHkzeGt5ZWEzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
@@ -95,13 +100,11 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ssuptina/ssuptina/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-       height="250"
-       alt="stats graph" />
-
   <img src="https://streak-stats.demolab.com?user=ssuptina&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
        height="220"
        alt="streak graph" />
+
+</div>
 
 </div>
 
