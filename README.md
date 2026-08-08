@@ -41,7 +41,25 @@
 
 ###
 
-<p data-importer="text" align="left"> Hi, My name is Teena .I am from Nepal.<br><br>🔭 I’m working on turning ideas into data-driven projects.<br>📚 I’m currently learning Data Analytics, AI/ML, Full Stack and occasionally learning things the hard way.<br>⚡ In my free time, I’m enhancing my GitHub — because apparently “just one more project” is never actually one more project.<br>💻 Currently interning in Data Analytics and learning something new every day.</p>
+<p align="left">
+  Hi, I'm Teena 👋 — a Computer Science graduate from Nepal 🇳🇵
+
+  <br><br>
+
+  📊 Currently interning in Data Analytics and learning to make sense of data beyond spreadsheets.
+
+  <br>
+
+  💻 I enjoy web development, experimenting with random ideas, and occasionally convincing myself I need another project.
+
+  <br>
+
+  🎨 When I'm not coding, I'm probably designing something on Canva, editing a reel, or making things unnecessarily aesthetic.
+
+  <br>
+
+  ⚡ Basically, I like building things, designing things, and figuring things out along the way.
+</p>
 
 ###
 
