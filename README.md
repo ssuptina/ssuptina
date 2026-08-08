@@ -4,7 +4,9 @@
 <p><i>whatever will be, will be. ✨</i></p>
 
 </div>
-
+<div align="center">
+  <img src="./assets/coding.gif" width="150" alt="Coding animation">
+</div>
 
 ###
 
