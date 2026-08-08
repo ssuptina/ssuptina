@@ -115,11 +115,9 @@
 ## 🎵 Currently Listening
 
 <p align="center">
-
   <a href="https://open.spotify.com/user/0af261w4qyjb9ar13zj1ople0">
     🎧 Check out what I'm listening to on Spotify
   </a>
-
 </p>
 
 ###
