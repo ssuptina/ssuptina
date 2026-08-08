@@ -1,9 +1,10 @@
+<div align="center">
+
 <h2>「 𝒬𝓊𝑒 𝓈𝑒𝓇á, 𝓈𝑒𝓇á 」</h2>
 <p><i>whatever will be, will be. ✨</i></p>
-<br>
-<div align="center">
-  <img src="./assets/coding.gif" width="150" alt="Coding animation">
+
 </div>
+
 
 ###
 
