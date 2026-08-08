@@ -6,7 +6,7 @@
 </div>
 <br>
   <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNuaHg3aGp1b3A5cmZ1Y3huNjVrZjM2bWRwMm5sZHkzeGt5ZWEzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
+  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW00a3h5Mzh6dXlwdHdtZDZzbnF3a3BzejJ5dGd1MjB5YmpjMnRiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/begSgSG5lCl8bxkBiv/giphy.gif"  />
 </div>
 
 ###
