@@ -103,16 +103,23 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssuptina/ssuptina/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssuptina/ssuptina/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ssuptina/ssuptina/pacman-output/breakout-contribution-graph.svg?game=breakout">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ssuptina/ssuptina/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ssuptina/ssuptina/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph"
+    src="https://raw.githubusercontent.com/ssuptina/ssuptina/output/breakout-contribution-graph.svg">
 </picture>
 
-###
+## 🎵 Currently Listening
 
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<p align="center">
+
+  <a href="https://open.spotify.com/user/0af261w4qyjb9ar13zj1ople0">
+    🎧 Check out what I'm listening to on Spotify
+  </a>
+
+</p>
 
 ###
