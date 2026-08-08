@@ -1,6 +1,6 @@
-<h2>🌎 Que será, será— whatever will be, will be. ✨<div data-importer="image" align="center"></h2>
+<h2>🌎 Que será, será— whatever will be, will be. ✨</h2>
 <br>
-  
+  <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNuaHg3aGp1b3A5cmZ1Y3huNjVrZjM2bWRwMm5sZHkzeGt5ZWEzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
