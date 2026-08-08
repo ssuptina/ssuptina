@@ -2,12 +2,9 @@
 
 <h2>「 𝒬𝓊𝑒 𝓈𝑒𝓇á, 𝓈𝑒𝓇á 」</h2>
 <p><i>whatever will be, will be. ✨</i></p>
-<div align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW00a3h5Mzh6dXlwdHdtZDZzbnF3a3BzejJ5dGd1MjB5dGd1MjB5YmpjMnRiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/begSgSG5lCl8bxkBiv/giphy.gif"
-    height="150"
-    alt="Cute coding GIF"
-  />
+<br>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW00a3h5Mzh6dXlwdHdtZDZzbnF3a3BzejJ5dGd1MjB5YmpjMnRiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/begSgSG5lCl8bxkBiv/giphy.gif"  />
 </div>
 
 ###
@@ -35,7 +32,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Welcome Guys !</h1>
+<h1 data-importer="text" align="center"><h1 align="center">Welcome to my little corner of GitHub! 🌸</h1></h1>
 
 ###
 
