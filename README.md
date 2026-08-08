@@ -1,4 +1,5 @@
-<div data-importer="image" align="center">
+<h2>🌎 Que será, será— whatever will be, will be. ✨<div data-importer="image" align="center">/<h2>
+  ###
   <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNuaHg3aGp1b3A5cmZ1Y3huNjVrZjM2bWRwMm5sZHkzeGt5ZWEzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
@@ -35,7 +36,7 @@
 
 ###
 
-<p data-importer="text" align="left"> Hi, My name is Teena .I am from Nepal.<br><br>🔭 I’m working on turning ideas into data-driven projects.<br>📚 I’m currently learning Data Analytics, AI/ML, Full Stack and occasionally learning things the hard way.<br>⚡ In my free time, I’m enhancing my GitHub — because apparently “just one more project” is never actually one more project.<br>💻 Currently interning in Data Analytics and learning something new every day.<br>🌎 Que será, será— whatever will be, will be. ✨</p>
+<p data-importer="text" align="left"> Hi, My name is Teena .I am from Nepal.<br><br>🔭 I’m working on turning ideas into data-driven projects.<br>📚 I’m currently learning Data Analytics, AI/ML, Full Stack and occasionally learning things the hard way.<br>⚡ In my free time, I’m enhancing my GitHub — because apparently “just one more project” is never actually one more project.<br>💻 Currently interning in Data Analytics and learning something new every day.</p>
 
 ###
 
