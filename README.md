@@ -106,22 +106,13 @@
 ###
 
 <h2 data-importer="text" align="left">What I have done till now?</h2>
-
 ###
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=ssuptina&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+  <img src="https://streak-stats.demolab.com?user=ssuptina&theme=dark&hide_border=false&border_radius=5"
        height="220"
        alt="streak graph" />
-
 </div>
-
-</div>
-
-###
-
-
 
 ###
 
