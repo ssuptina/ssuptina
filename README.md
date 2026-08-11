@@ -106,10 +106,10 @@
 ###
 
 <h2 data-importer="text" align="left">What I have done till now?</h2>
-###
 
+###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ssuptina&theme=dark&hide_border=false&border_radius=5"
+  <img src="https://github-readme-streak-stats.v3x.sh/?user=ssuptina&theme=dark&hide_border=false&border_radius=5"
        height="220"
        alt="streak graph" />
 </div>
@@ -120,7 +120,6 @@
 </div>
 
 ###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssuptina/ssuptina/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssuptina/ssuptina/pacman-output/breakout-contribution-graph.svg?game=breakout">
