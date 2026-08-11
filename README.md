@@ -108,10 +108,10 @@
 <h2 data-importer="text" align="left">What I have done till now?</h2>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssuptina&show_icons=true&theme=dark"
-       alt="GitHub Stats" />
+  <img src="assets/streak-stats.svg"
+       height="220"
+       alt="streak graph" />
 </div>
 
 ###
