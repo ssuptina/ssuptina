@@ -109,8 +109,7 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ssuptina/ssuptina/stats-output/stats.svg"
-       alt="GitHub Stats Card" />
+  <img src="https://raw.githubusercontent.com/ssuptina/ssuptina/stats-output/stats.svg" alt="GitHub Stats Card" />
 </div>
 
 ###
