@@ -109,9 +109,8 @@
 
 ###
 <div align="center">
-  <img src="assets/streak-stats.svg"
-       height="220"
-       alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/ssuptina/ssuptina/stats-output/stats.svg"
+       alt="GitHub Stats Card" />
 </div>
 
 ###
