@@ -26,7 +26,13 @@
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
   </a>
 </div>
+<div align="center">
 
+<p> <i>☕ Fuel my next questionable project ✨</i> </p>
+
+<a href="YOUR_BUY_ME_A_COFFEE_LINK" target="_blank"> <img src="./assets/buy-me-a-coffee-sticker.png" width="180" alt="Buy me a coffee"> </a>
+
+</div>
 ###
 
 <div data-importer="profile-views" align="center">
