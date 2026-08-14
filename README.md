@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
   </a>
 </div>
+
 ###
 
 <div data-importer="profile-views" align="center">
@@ -131,6 +132,8 @@
     On Spotify
   </a>
 </p>
+
+<br>
 
 ###
 
