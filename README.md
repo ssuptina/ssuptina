@@ -31,9 +31,10 @@
 <div align="center">
 
 <p>
-  <i>☕ Fuel my next questionable project ✨</i>
+  <i style="font-family: 'Brush Script MT', 'Segoe Script', cursive;">
+    Fuel my next questionable project 
+  </i>
 </p>
-
 <a href="https://buymeacoffee.com/teenaneupane" target="_blank">
   <img
     src="./assets/bmc-full%20logo.png"
